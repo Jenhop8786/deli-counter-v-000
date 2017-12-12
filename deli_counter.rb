@@ -1,6 +1,6 @@
 # Write your code here.
 var katzDeliLine = []
-function takeAnumber (katzDeliLine, name) {
+function takeAnumber (katzDeliLine,name) {
   katzDeliLine.push(name)
   return "Welcome," + name + ". You are number " +
   katzDeliLine.length + " in line. "
